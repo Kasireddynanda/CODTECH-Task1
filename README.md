@@ -19,3 +19,8 @@ Approach:
 We can choose the desired operation from the option of a, b, c, and d.
 We can take two numbers, and if… elif… else, branching is used for executing the particular operation.
 We will use add(), subtract(), multiply() and divide() function for evaluation the respective operation in the calculator.
+
+OUTPUT:
+![task1](https://github.com/user-attachments/assets/b809eb0e-c1fa-4b1a-ac62-d2a2ddcd812e)
+
+
